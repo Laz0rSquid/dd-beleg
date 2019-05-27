@@ -1,0 +1,55 @@
+a) Ausgangstext
+erst wenn der zu verschluesselnde text kuerzer oder genauso lang ist wie das verwendete schluesselwort ist das verfahren unknackbar 
+
+b) Leerzeichen subtrahieren
+erstwennderzuverschluesselndetextkuerzerodergenausolangistwiedasverwendeteschluesselwortistdasverfahrenunknackbar 
+
+c) In 5er Gruppen einteilen
+erstw
+ennde
+rzuve
+rschl
+uesse
+lndet
+extku
+erzer
+oderg
+enaus
+olang
+istwi
+edasv
+erwen
+detes
+chlue
+sselw
+ortis
+tdasv
+erfah
+renun
+knack
+bar
+
+d) Verschlüsseln
+fluao
+fnrxq
+valvy
+tzgul
+ogzoe
+dfhvu
+yzacv
+evtqv
+pueli
+lrnum
+qswny
+awkxc
+gkstv
+iliio
+uengz
+gulog
+zoedo
+siucu
+avbsz
+ydjby
+rypbr
+xnuer
+xaj
